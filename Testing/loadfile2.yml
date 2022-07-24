@@ -16,5 +16,5 @@ reloadCommand: "/Load2 reload"
 #
 # the list of file urls to download and save to the directory
 loadList:
-  - "https://github.com/lrmtheboss/BossFiles/blob/main/Testing/Configs/config3.yml"
-  - "https://github.com/lrmtheboss/BossFiles/blob/main/Testing/Configs/config4.yml"
+  - "https://raw.githubusercontent.com/lrmtheboss/BossFiles/main/Testing/Configs/config3.yml"
+  - "https://raw.githubusercontent.com/lrmtheboss/BossFiles/main/Testing/Configs/config4.yml"

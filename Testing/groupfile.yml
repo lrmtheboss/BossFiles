@@ -5,5 +5,5 @@
 #---------------
 servers:
   TestServer:
-    - "https://github.com/lrmtheboss/BossFiles/blob/main/Testing/loadfile.yml"
-    - "https://github.com/lrmtheboss/BossFiles/blob/main/Testing/loadfile2.yml"
+    - "https://raw.githubusercontent.com/lrmtheboss/BossFiles/main/Testing/loadfile.yml"
+    - "https://raw.githubusercontent.com/lrmtheboss/BossFiles/main/Testing/loadfile2.yml"

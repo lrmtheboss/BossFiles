@@ -4,7 +4,7 @@
 #
 #---------------
 # link to group file with the list of load files to download for a given server
-groupFileLink: "https://github.com/lrmtheboss/BossFiles/blob/main/Testing/groupfile.yml"
+groupFileLink: "https://raw.githubusercontent.com/lrmtheboss/BossFiles/main/Testing/groupfile.yml"
 #
 # name of this server as defined in group file
 # is case sensitive
