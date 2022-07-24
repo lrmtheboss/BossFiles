@@ -3,18 +3,10 @@
 # Testing Load File
 #
 #---------------
-# the directory to save the files to. will make it if it dose not exists.
-# defaults to the plugins folder. use ../ at the start to specify to use the root directory
 directory: 'LoadTesting'
-#
 #---------------
-#
-# the command to use to reload the plugin durning a automatic update task
 reloadCommand: "/Load reload"
-#
 #---------------
-#
-# the list of file urls to download and save to the directory
 loadList:
   - "https://raw.githubusercontent.com/lrmtheboss/BossFiles/main/Testing/Configs/config1.yml"
   - "https://raw.githubusercontent.com/lrmtheboss/BossFiles/main/Testing/Configs/config2.yml"
