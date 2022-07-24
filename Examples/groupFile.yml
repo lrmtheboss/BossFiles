@@ -1,0 +1,12 @@
+#---------------
+#
+# Example Group File
+#
+#---------------
+servers:
+  # the name of the server as it is in the config file
+  # is case sensitive
+  someServer:
+    # a list of load file urls to use for this server
+    - "link to load file to use"
+    - "link to another load file to use"

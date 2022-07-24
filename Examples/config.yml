@@ -1,0 +1,30 @@
+#---------------
+#
+# Configuration for BossRemoteFiles
+#
+#---------------
+# link to group file with the list of load files to download for a given server
+groupFileLink: "https://github.com/lrmtheboss/BossFiles"
+#
+# name of this server as defined in group file
+# is case sensitive
+serverName: "SomeServer"
+#
+# the interval in minutes to check for updates and changes
+# minimum value is 10 minutes
+# maximum value is 1440 minutes (1 day)
+# any value below 10 minutes will be set to 10 minutes
+# any value above 1440 minutes will be set to 1440 minutes
+# longer intervals are recommended for bigger or more active servers
+# recommended times are:
+#   10 minutes (Minimum) (testing and development, not recommended for production)
+#   30 minutes (recommended for new production servers)
+#   60 minutes (1 hour)
+#   120 minutes (2 hours) (recommended as minium for non new production servers)
+#   240 minutes (4 hours)
+#   360 minutes (6 hours)
+#   480 minutes (8 hours)
+#   720 minutes (12 hours)
+#   1080 minutes (18 hours)
+#   1440 minutes (1 day) (maximum)
+checkInterval: 120
