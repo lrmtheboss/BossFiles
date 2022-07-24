@@ -1,0 +1,9 @@
+#---------------
+#
+# Testing Group File
+#
+#---------------
+servers:
+  TestServer:
+    - "https://github.com/lrmtheboss/BossFiles/blob/main/Testing/loadfile.yml"
+    - "https://github.com/lrmtheboss/BossFiles/blob/main/Testing/loadfile2.yml"
