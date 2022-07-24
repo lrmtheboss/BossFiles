@@ -3,7 +3,7 @@
 # Testing Load File
 #
 #---------------
-directory: 'Load2Testing'
+directory: 'BossRemoteFiles/temp/Load2Testing'
 #---------------
 reloadCommand: "/Load2 reload"
 #---------------
