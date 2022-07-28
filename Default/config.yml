@@ -7,7 +7,7 @@
 groupFileLink: "https://github.com/lrmtheboss/BossFiles"
 #
 # name of this server as defined in group file
-# is case sensitive
+# is case-sensitive
 serverName: "SomeServer"
 #
 # the interval in minutes to check for updates and changes
@@ -20,7 +20,7 @@ serverName: "SomeServer"
 #   10 minutes (Minimum) (testing and development, not recommended for production)
 #   30 minutes (recommended for new production servers)
 #   60 minutes (1 hour)
-#   120 minutes (2 hours) (recommended as minium for non new production servers)
+#   120 minutes (2 hours) (recommended as minimum for non-new production servers)
 #   240 minutes (4 hours)
 #   360 minutes (6 hours)
 #   480 minutes (8 hours)
