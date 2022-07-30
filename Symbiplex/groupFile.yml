@@ -1,0 +1,27 @@
+#---------------
+#
+# Symbiplex Group File
+#
+#---------------
+servers:
+  Hub:
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/hub-only.yml"
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/other-global.yml"
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/staff-warps.yml"
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/warps.yml"
+  Proxy:
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/other-global.yml"
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/staff-warps.yml"
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/warps.yml"
+  Survival:
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/other-global.yml"
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/staff-warps.yml"
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/warps.yml"
+  RPG:
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/other-global.yml"
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/staff-warps.yml"
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/warps.yml"
+  Creative:
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/other-global.yml"
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/staff-warps.yml"
+    - "https://github.com/lrmtheboss/BossFiles/raw/main/Symbiplex/loadfiles/dynamicGui/warps.yml"
