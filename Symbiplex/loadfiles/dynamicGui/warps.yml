@@ -1,0 +1,13 @@
+#---------------
+#
+# Warps Load File
+#
+#---------------
+directory: 'DynamicGui/guis/warps'
+#---------------
+reloadCommand: "/dynamicGui reload"
+#---------------
+loadList:
+  - "https://github.com/lrmtheboss/LRM-GUIs/raw/main/Symbiplex/warps/creative-warps.yml"
+  - "https://github.com/lrmtheboss/LRM-GUIs/raw/main/Symbiplex/warps/survival-warps.yml"
+  - "https://github.com/lrmtheboss/LRM-GUIs/raw/main/Symbiplex/warps/warps.yml"
