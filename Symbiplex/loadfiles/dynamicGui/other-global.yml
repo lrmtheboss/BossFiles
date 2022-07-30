@@ -1,0 +1,14 @@
+#---------------
+#
+# Other Global Load File
+#
+#---------------
+directory: 'DynamicGui/guis/warps'
+#---------------
+reloadCommand: "/dynamicGui reload"
+#---------------
+loadList:
+  - "https://github.com/lrmtheboss/LRM-GUIs/raw/main/Symbiplex/give-debug.yml"
+  - "https://github.com/lrmtheboss/LRM-GUIs/raw/main/Symbiplex/information.yml"
+  - "https://github.com/lrmtheboss/LRM-GUIs/raw/main/Symbiplex/links.yml"
+  - "https://github.com/lrmtheboss/LRM-GUIs/raw/main/Symbiplex/votes-gui.yml"
