@@ -1,0 +1,12 @@
+#---------------
+#
+# Hub Only Load File
+#
+#---------------
+directory: 'DynamicGui/guis/warps'
+#---------------
+reloadCommand: "/dynamicGui reload"
+#---------------
+loadList:
+  - "https://github.com/lrmtheboss/LRM-GUIs/raw/main/Symbiplex/information.yml"
+  - "https://github.com/lrmtheboss/LRM-GUIs/raw/main/Symbiplex/hub-warps.yml"
