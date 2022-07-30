@@ -1,0 +1,13 @@
+#---------------
+#
+# Staff Warps Load File
+#
+#---------------
+directory: 'DynamicGui/guis/staff-warps'
+#---------------
+reloadCommand: "/dynamicGui reload"
+#---------------
+loadList:
+  - "https://github.com/lrmtheboss/LRM-GUIs/raw/main/Symbiplex/staff-warps/builder-warps.yml"
+  - "https://github.com/lrmtheboss/LRM-GUIs/raw/main/Symbiplex/staff-warps/mod-warps.yml"
+  - "https://github.com/lrmtheboss/LRM-GUIs/raw/main/Symbiplex/staff-warps/staff-warps.yml"
