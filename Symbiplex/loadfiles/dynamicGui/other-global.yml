@@ -3,7 +3,7 @@
 # Other Global Load File
 #
 #---------------
-directory: 'DynamicGui/guis/warps'
+directory: 'DynamicGui/guis/other-global'
 #---------------
 reloadCommand: "/dynamicGui reload"
 #---------------

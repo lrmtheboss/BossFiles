@@ -3,7 +3,7 @@
 # Hub Only Load File
 #
 #---------------
-directory: 'DynamicGui/guis/warps'
+directory: 'DynamicGui/guis/hub-only'
 #---------------
 reloadCommand: "/dynamicGui reload"
 #---------------
